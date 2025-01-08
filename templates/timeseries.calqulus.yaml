@@ -60,7 +60,7 @@
 # ----
 - parameter: KinematicsLowpassCutoffFq
   steps:
-    - import: [15]
+    - import: [5]
 
 - parameter: KinematicsLowpassExtrapolate
   steps:
